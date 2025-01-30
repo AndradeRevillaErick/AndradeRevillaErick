@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">I'm a fullstack developer with experience building user-friendly interfaces and solid backend solutions for web applications. I work with technologies like Angular, React, NestJS, PHP, and databases like PostgreSQL and MySQL. I've been involved in system integrations, always keeping security and responsive design in mind. My goal is to create smooth user experiences and efficient systems. I also enjoy working on personal projects where I explore modern design trends, blending functionality with aesthetics to build engaging and intuitive applications.</h4>
+<h4 align="justify">I'm a fullstack developer with experience building user-friendly interfaces and solid backend solutions for web applications. I work with technologies like Angular, React, NestJS, PHP, and databases like PostgreSQL and MySQL. I've been involved in system integrations, always keeping security and responsive design in mind. My goal is to create smooth user experiences and efficient systems. I also enjoy working on personal projects where I explore modern design trends, blending functionality with aesthetics to build engaging and intuitive applications.</h4>
 
 ###
 
@@ -34,15 +34,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="postgresql logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="32" alt="jest logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="32" alt="gimp logo"  />
 </div>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/erick-andrade-revilla/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="32" alt="linkedin logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="32" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/erick_ar.exe/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="32" alt="instagram logo"  />
