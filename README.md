@@ -41,10 +41,8 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/erick-andrade-revilla/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="32" alt="linkedin logo"  />
-  </a>
   <a href="https://www.instagram.com/erick_ar.exe/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="32" alt="instagram logo"  />
-  </a>
 </div>
 
 ###
